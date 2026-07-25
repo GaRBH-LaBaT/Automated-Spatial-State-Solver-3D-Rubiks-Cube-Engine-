@@ -1,7 +1,7 @@
 # 🧩 Automated Spatial State Solver & 3D Rubik's Cube Engine
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubik%27s_cube.svg/1024px-Rubik%27s_cube.svg.png" width="200" alt="Rubik's Cube">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Rubiks_cube_solved.svg" width="200" alt="Rubik's Cube">
   <p><strong>A hyper-optimized, mathematically optimal C++ solver using IDA* and Pattern Databases.</strong></p>
 </div>
 
