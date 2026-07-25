@@ -1,0 +1,24 @@
+# Build directories
+build/
+bin/
+obj/
+out/
+.cmake/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+*.exe
+
+# Pattern Databases (Do not commit 40MB+ binaries)
+*.pdb
+
+# IDE and OS files
+.vscode/
+.vs/
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Personal Documents
+notes.md
